@@ -1,0 +1,42 @@
+
+html {
+    height: 100%;
+}
+
+body {
+  background-color: white;
+  height: 100%;
+}
+
+.h100 {
+  height: 100%
+}
+.main-panel {
+    width: 40px;
+    background-color: #007bff;
+}
+.icon-main {
+  width: 40px;
+  height: 40px;
+  fill: white;
+  background-color: lightgray;
+}
+
+.icon-button {
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  fill: white;
+}
+
+.icon-button:hover {
+  background-color: blue;
+}
+
+.container-fluid {
+  height: 100%
+}
+
+div {
+  bo rder: 1px solid black;
+}
